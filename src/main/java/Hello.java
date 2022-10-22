@@ -3,6 +3,7 @@ public class Hello {
         System.out.println("Hello GitHub !!!");
         System.out.println("add!");
         System.out.println("YangziDan'addition");
+        System.out.println("CJ'addition");
     }
 }
 
